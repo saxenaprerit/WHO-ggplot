@@ -1,2 +1,3 @@
 # WHO-ggplot
-Visualizing various metrics from WHO
+
+The code uses an open source data from WHO and used ggplot library in R to create visualizations
